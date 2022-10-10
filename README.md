@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Martínez lópez
+- 👋 Hi, I’m David Martínez
 - 👀 I'm interested in Web programing, IA and all related to technology.
 - 🌱 I’m currently learning Laravel, Next.js and tailwind.
 - 📫 How to reach me ...
