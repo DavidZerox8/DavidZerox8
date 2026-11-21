@@ -27,13 +27,3 @@ Senior Engineer with 6+ years of experience specializing in the Laravel ecosyste
   <img src="https://github-readme-stats.vercel.app/api?username=DavidZerox8&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="David's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidZerox8&layout=compact&theme=dracula&langs_count=6" height="150" alt="Top Languages" />
 </div>
-
----
-
-### 📫 Connect & Collaborate
-<a href="https://linkedin.com/in/david-m197" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:davidml97@outlook.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
